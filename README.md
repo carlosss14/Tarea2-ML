@@ -1,2 +1,2 @@
 # Certamen-ML
-Red Convolucional para predecir incendios en la Región del Bio Bio
+Red Convolucional para predecir incendios forestales en la Región del Bio Bio
